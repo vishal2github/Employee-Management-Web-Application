@@ -1,0 +1,17 @@
+/Employee-Management-Application/.metadata
+/Employee-Record-Management-Service/.metadata
+
+/Employee-Management-Application/Servers
+
+/Employee-Management-Application/employee_management_application/.settings
+/Employee-Management-Application/employee_management_application/build
+/Employee-Management-Application/employee_management_application/.classpath
+/Employee-Management-Application/employee_management_application/.project
+
+/Employee-Management-Application/employee_management_application/src/main/webapp/META-INF
+/Employee-Management-Application/employee_management_application/src/main/webapp/WEB-INF
+
+/Employee-Record-Management-Service/employee_record_management_service/.settings
+/Employee-Record-Management-Service/employee_record_management_service/bin
+/Employee-Record-Management-Service/employee_record_management_service/.classpath
+/Employee-Record-Management-Service/employee_record_management_service/.project
